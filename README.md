@@ -7,7 +7,9 @@
 
 ## 📸 Demo & Sample Outputs
 
-- 🎞️ **[Project Demo Video](project demo video.mp4)** – Full walkthrough of the app.
+- **🎬 Project Demo Video:**  
+  To see the full walkthrough of how Kudvisuals works, play the video directly from the repository:  
+  [project demo video.mp4](./project%20demo%20video.mp4)
 - 🖼️ Sample generated images:
   - ![Generated Image 1](generatedimg_1.png)
   - ![Generated Image 2](generatedimg_2.png)
